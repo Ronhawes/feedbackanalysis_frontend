@@ -17,13 +17,13 @@ const Hero = () => {
           </p>
           <Typed
           className='md:text-5xl sm:text-4xl text-xl font-bold md:pl-4 pl-2'
-            strings={['BTB', 'BTC', 'SASS']}
+            strings={['Pela', 'InspGo', 'Bar bell']}
             typeSpeed={120}
             backSpeed={140}
             loop
           />
         </div>
-        <p className='md:text-2xl text-xl font-bold text-gray-500'>Monitor your data analytics to increase revenue for BTB, BTC, & SASS platforms.</p>
+        <p className='md:text-2xl text-xl font-bold text-gray-500'>Monitor your data</p>
         <button className='bg-[#00df9a] w-[200px] rounded-md font-medium my-6 mx-auto py-3 text-black'>Get Started</button>
       </div>
     </div>
